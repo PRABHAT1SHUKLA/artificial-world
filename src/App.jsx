@@ -4,6 +4,7 @@ import HeroSection from './components/HeroSection'
 import FeatureSec from './components/Feature'
 import WorkFlow from './components/WorkFlow'
 import Pricing from './components/Pricing'
+import Testimonial from './components/Testimonial'
 
 
 
@@ -18,6 +19,7 @@ function App() {
           <FeatureSec/>
           <WorkFlow/>
           <Pricing/>
+          <Testimonial/>
 
         </div>
     </>
