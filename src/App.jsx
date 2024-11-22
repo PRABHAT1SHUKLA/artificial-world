@@ -3,6 +3,7 @@ import NavBar from './components/NavBar'
 import HeroSection from './components/HeroSection'
 import FeatureSec from './components/Feature'
 import WorkFlow from './components/WorkFlow'
+import Pricing from './components/Pricing'
 
 
 
@@ -16,6 +17,7 @@ function App() {
           <HeroSection/>
           <FeatureSec/>
           <WorkFlow/>
+          <Pricing/>
 
         </div>
     </>
