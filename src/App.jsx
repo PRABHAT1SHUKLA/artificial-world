@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import NavBar from './components/NavBar'
 import HeroSection from './components/HeroSection'
+import FeatureSec from './components/Feature'
 
 
 
@@ -12,6 +13,7 @@ function App() {
         <NavBar/>
         <div className='mx-auto px-6 pt-20 max-w-7xl'>
           <HeroSection/>
+          <FeatureSec/>
 
         </div>
     </>
