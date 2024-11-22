@@ -5,6 +5,7 @@ import FeatureSec from './components/Feature'
 import WorkFlow from './components/WorkFlow'
 import Pricing from './components/Pricing'
 import Testimonial from './components/Testimonial'
+import Footer from './components/Footer'
 
 
 
@@ -20,6 +21,7 @@ function App() {
           <WorkFlow/>
           <Pricing/>
           <Testimonial/>
+          <Footer/>
 
         </div>
     </>
